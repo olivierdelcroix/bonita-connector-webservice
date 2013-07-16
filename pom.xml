@@ -32,7 +32,9 @@
     </build>
 
     <scm>
-        <developerConnection>scm:svn:https://svn.bonitasoft.org/bonita-connectors-6/branches/connectors/bonita-connector-webservice/bonita-connector-webservice-6.0.x</developerConnection>
+        <developerConnection>scm:git:git@github.com:bonitasoft/bonita-connector-webservice.git</developerConnection>
+        <connection>scm:git:git@github.com:bonitasoft/bonita-connector-webservice.git</connection>
+        <url>https://github.com/bonitasoft/bonita-connector-webservice</url>
     </scm>
 
 </project>
